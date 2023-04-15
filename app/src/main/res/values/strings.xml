@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Second Project</string>
+    <string name="_5">5</string>
+    <string name="_0">0</string>
+    <string name="_1">+1</string>
+    <string name="reset">Сбросить</string>
+    <string name="diwe">:</string>
+    <string name="argentina">Аргентина</string>
+    <string name="jamaika">Ямайка</string>
+</resources>

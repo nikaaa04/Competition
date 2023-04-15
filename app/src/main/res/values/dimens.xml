@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageSize">160dp</dimen>
+    <dimen name="marginTop100">100dp</dimen>
+    <dimen name="marginEnd35">35dp</dimen>
+    <dimen name="marginTop25">25dp</dimen>
+    <dimen name="textSize60">60sp</dimen>
+    <dimen name="marginBottom200">200dp</dimen>
+    <dimen name="marginTop30">30dp</dimen>
+    <dimen name="marginTop5">5dp</dimen>
+    <dimen name="marginStart50">50dp</dimen>
+    <dimen name="marginTop20">20dp</dimen>
+    <dimen name="marginEnd50">50dp</dimen>
+    <dimen name="marginBottom15">15dp</dimen>
+</resources>
