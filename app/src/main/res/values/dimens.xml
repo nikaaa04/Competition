@@ -12,4 +12,11 @@
     <dimen name="marginTop20">20dp</dimen>
     <dimen name="marginEnd50">50dp</dimen>
     <dimen name="marginBottom15">15dp</dimen>
+    <dimen name="marginStart15">15dp</dimen>
+    <dimen name="marginTop70">70dp</dimen>
+    <dimen name="marginEnd15">15dp</dimen>
+    <dimen name="marginTop4">4dp</dimen>
+    <dimen name="marginEnd48">48dp</dimen>
+    <dimen name="marginStart48">48dp</dimen>
+    <dimen name="marginTop50">50dp</dimen>
 </resources>
